@@ -1,5 +1,5 @@
 # システムプログラミングの授業(大学の授業)で使用したリポジトリです
-簡素な共有メモリの機能をxv6-riscvで実装していた https://github.com/Pablo-Izquierdo/RiscV-xv6/blob/main/Projects/P3 を元に機能追加を行っています。  
+簡素な共有メモリの機能を[xv6-riscv](https://github.com/mit-pdos/xv6-riscv)で実装していた https://github.com/Pablo-Izquierdo/RiscV-xv6/blob/main/Projects/P3 を元に機能追加を行っています。  
 詳細については、[こちら](./REPORT.md)を確認して下さい。
 
 xv6 is a re-implementation of Dennis Ritchie's and Ken Thompson's Unix
